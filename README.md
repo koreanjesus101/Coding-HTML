@@ -5,7 +5,3 @@
 - 📫 How to reach me sean.lee@edu.sait.ca or www.linkedin.com/in/sean-lee-51ab3b1ab
 - ⚡ Fun fact: I love playing futbol (I play as a Goalie) and badminton. 
 
-<!---
-koreanjesus101/koreanjesus101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
