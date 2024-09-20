@@ -1,0 +1,8 @@
+x = 5
+print(type(x))
+y = 10.50
+print(type(y))
+z = "hello!"
+print(type(z))
+w = True
+print(type(w))
